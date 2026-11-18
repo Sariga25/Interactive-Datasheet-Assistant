@@ -1,6 +1,7 @@
 # Interactive Hardware Datasheet Assistant (RAG Chatbot)
 
 A Retrieval-Augmented Generation (RAG) engineering assistant built with **LangChain**, **ChromaDB**, **FastAPI**, **Groq LLM**, and **Streamlit**. It enables embedded engineers to query electrical specifications, pin limits, and communication interfaces across pre-indexed hardware datasheets with inline source and page citations.
+![Interactive Datasheet Assistant Demo](demo_screenshot.png)
 
 ## System Architecture & RAG Workflow
 

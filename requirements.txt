@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+chromadb
+pypdf
+pycryptodome
+sentence-transformers
